@@ -1,0 +1,13 @@
+wandb
+md_data
+cocoapi
+.Trash-1000
+.ipynb_checkpoints
+readme.txt
+.vscode
+*.png
+*.txt
+MICCAI
+cocoapi
+md_resnext.ipynb
+
